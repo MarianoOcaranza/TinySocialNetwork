@@ -2,6 +2,7 @@
 bin/
 obj/
 appsettings.*.json
+appsettings.json
 *.user
 *.suo
 *.swp
@@ -9,3 +10,4 @@ appsettings.*.json
 *.tmp
 .DS_Store
 Thumbs.db
+*.db
