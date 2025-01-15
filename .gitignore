@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-.vscode
-=======
 .vscode
 bin/
 obj/
@@ -12,4 +9,3 @@ appsettings.*.json
 *.tmp
 .DS_Store
 Thumbs.db
->>>>>>> fe4e730 (Corregido el gitignore)
