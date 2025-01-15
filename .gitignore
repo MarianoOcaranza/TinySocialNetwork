@@ -1,1 +1,15 @@
+<<<<<<< HEAD
 .vscode
+=======
+.vscode
+bin/
+obj/
+appsettings.*.json
+*.user
+*.suo
+*.swp
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+>>>>>>> fe4e730 (Corregido el gitignore)
